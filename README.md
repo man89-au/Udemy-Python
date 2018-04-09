@@ -4,5 +4,5 @@
 # Python 2
 
 # Project List
-# Tic-Tat-Toe
-# Blackjack
+# 1. Tic-Tat-Toe
+# 2. Blackjack
